@@ -1,40 +1,71 @@
-# Игнорировать директории сборки
-/build/
-/build*/
+# Prerequisites
+*.d
 
-# Игнорировать CMake файлы
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-CTestTestfile.cmake
-Makefile
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# Игнорировать выходные артефакты (собранные исполняемые файлы, библиотеки)
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.so.*
+
+.vs/
+.idea/
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
 *.exe
 *.out
 *.app
-*.dll
-*.so
-*.dylib
-*.lib
-*.a
 
-# Игнорировать файлы журналов и временные файлы
-*.log
+# Build directories
+build/
+Build/
+build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Temporary files
 *.tmp
+*.log
 *.bak
 *.swp
-*.swp.*
-*~
 
-# Игнорировать файлы CLion и других IDE
-.idea/
-.vscode/
-*.user
-*.workspace
-*.sln
-*.vcxproj*
+# vcpkg
+vcpkg_installed/
 
-.DS_Store
-*cmake-build-debug/
-Google_tests/lib/
+# debug information files
+*.dwo
+
+# test output & cache
+Testing/
+.cache/
