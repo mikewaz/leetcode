@@ -1,6 +1,6 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
 <span style="color:#1cbaba">Easy</span>: 42\
-<span style="color:#ffb700">Medium</span>: 49\
+<span style="color:#ffb700">Medium</span>: 50\
 <span style="color:#f63737">Hard</span>: 5
 
 | #    | Name & Link                                                                                                                             | Difficulty |
