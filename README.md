@@ -20,6 +20,7 @@
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                 | Easy       |
 | 984  | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)                                                   | Medium     |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)                          | Hard       |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)                                                       | Medium     |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)  | Easy       |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                       | Medium     |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)  | Medium     |

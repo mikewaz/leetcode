@@ -9,8 +9,8 @@ namespace medium {
     class S142 {
     public:
         static ListNode *detectCycle(ListNode *head) {
-            ListNode* slow = head;
-            ListNode* fast = head;
+            ListNode *slow = head;
+            ListNode *fast = head;
 
             while (fast != nullptr && fast->next != nullptr) {
                 slow = slow->next;
@@ -29,5 +29,6 @@ namespace medium {
             }
 
             return nullptr;
+        }
     };
 }

@@ -25,7 +25,8 @@ file(GLOB_RECURSE LEETCODE_SOURCES
 )
 
 # Создаем библиотеку, используя найденный список файлов
-add_library(LeetCode SHARED ${LEETCODE_SOURCES})
+add_library(LeetCode SHARED ${LEETCODE_SOURCES}
+        solutions/01_medium/S1291.cpp)
 
 # Make headers available to dependents
 target_include_directories(LeetCode PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
@@ -39,7 +40,8 @@ file(GLOB_RECURSE LEETCODE_TESTS
 )
 
 # Создаем библиотеку, используя найденный список файлов
-add_executable(LeetCode_tests ${LEETCODE_TESTS})
+add_executable(LeetCode_tests ${LEETCODE_TESTS}
+        tests/01_medium/S1291_tests.cpp)
 
 target_link_libraries(LeetCode_tests PRIVATE LeetCode GTest::gtest_main)
 include(GoogleTest)
