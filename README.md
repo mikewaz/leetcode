@@ -1,7 +1,8 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
 <span style="color:#1cbaba">Easy</span>: 42\
 <span style="color:#ffb700">Medium</span>: 50\
-<span style="color:#f63737">Hard</span>: 5
+<span style="color:#f63737">Hard</span>: 6
+Rank: 1 628 207
 
 | #    | Name & Link                                                                                                                             | Difficulty |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -30,6 +31,7 @@
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)             | Easy       |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                                                 | Medium     |
 | 3186 | [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/)                       | Medium     |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)                                                       | Hard       |
 | 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/)                                           | Hard       |
 | 3858 | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/)                                             | Easy       |
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/)                                                 | Medium     |
