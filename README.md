@@ -1,8 +1,8 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
-<span style="color:#1cbaba">Easy</span>: 42\
+<span style="color:#1cbaba">Easy</span>: 43\
 <span style="color:#ffb700">Medium</span>: 50\
 <span style="color:#f63737">Hard</span>: 6
-Rank: 1 628 207
+Rank: 1 616 917
 
 | #    | Name & Link                                                                                                                             | Difficulty |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -26,6 +26,7 @@ Rank: 1 628 207
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                       | Medium     |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)  | Medium     |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)                                   | Easy       |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)                            | Easy       |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                       | Medium     |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)                             | Easy       |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)             | Easy       |
