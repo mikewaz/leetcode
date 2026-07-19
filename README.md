@@ -1,8 +1,8 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
 <span style="color:#1cbaba">Easy</span>: 43\
-<span style="color:#ffb700">Medium</span>: 50\
+<span style="color:#ffb700">Medium</span>: 52\
 <span style="color:#f63737">Hard</span>: 6
-Rank: 1 616 917
+Rank: 1 606 324
 
 | #    | Name & Link                                                                                                                             | Difficulty |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -15,12 +15,14 @@ Rank: 1 616 917
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                             | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                             | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                             | Medium     |
+| 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)                                                     | Medium     |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string/)                                                                           | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                         | Easy       |
 | 717  | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)                                                 | Easy       |
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                 | Easy       |
 | 984  | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)                                                   | Medium     |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)                          | Hard       |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)                | Medium     |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)                                                       | Medium     |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)  | Easy       |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                       | Medium     |

@@ -28,7 +28,9 @@ file(GLOB_RECURSE LEETCODE_SOURCES
 add_library(LeetCode SHARED ${LEETCODE_SOURCES}
         solutions/01_medium/S1291.cpp
         solutions/02_hard/S3312.cpp
-        solutions/00_easy/S1979.cpp)
+        solutions/00_easy/S1979.cpp
+        solutions/01_medium/S1081.cpp
+        solutions/01_medium/S316.cpp)
 
 # Make headers available to dependents
 target_include_directories(LeetCode PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
