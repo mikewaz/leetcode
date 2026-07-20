@@ -1,5 +1,5 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
-<span style="color:#1cbaba">Easy</span>: 45\
+<span style="color:#1cbaba">Easy</span>: 46\
 <span style="color:#ffb700">Medium</span>: 52\
 <span style="color:#f63737">Hard</span>: 6
 Rank: 1 578 698
@@ -35,6 +35,7 @@ Rank: 1 578 698
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)                             | Easy       |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)             | Easy       |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                                                 | Medium     |
+| 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/description/)                     | Easy       |
 | 3186 | [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/)                       | Medium     |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)                                                       | Hard       |
 | 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/)                                           | Hard       |
