@@ -1,8 +1,8 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
-<span style="color:#1cbaba">Easy</span>: 43\
+<span style="color:#1cbaba">Easy</span>: 44\
 <span style="color:#ffb700">Medium</span>: 52\
 <span style="color:#f63737">Hard</span>: 6
-Rank: 1 606 324
+Rank: 1 578 698
 
 | #    | Name & Link                                                                                                                             | Difficulty |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -22,6 +22,7 @@ Rank: 1 606 324
 | 872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                 | Easy       |
 | 984  | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)                                                   | Medium     |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)                          | Hard       |
+| 1060 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description)                                                                | Easy       |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)                | Medium     |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/)                                                       | Medium     |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)  | Easy       |
