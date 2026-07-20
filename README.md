@@ -1,5 +1,5 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
-<span style="color:#1cbaba">Easy</span>: 44\
+<span style="color:#1cbaba">Easy</span>: 45\
 <span style="color:#ffb700">Medium</span>: 52\
 <span style="color:#f63737">Hard</span>: 6
 Rank: 1 578 698
@@ -8,6 +8,7 @@ Rank: 1 578 698
 |------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                             | Hard       |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)                                                                | Medium     |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                | Easy       |
 | 28   | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy       |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                             | Medium     |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                               | Medium     |
