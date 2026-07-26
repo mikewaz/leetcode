@@ -1,8 +1,8 @@
 ﻿[LeetCode Profile](https://leetcode.com/u/MarkSaushkin/)\
-<span style="color:#1cbaba">Easy</span>: 47\
+<span style="color:#1cbaba">Easy</span>: 48\
 <span style="color:#ffb700">Medium</span>: 52\
 <span style="color:#f63737">Hard</span>: 6
-Rank: 1 578 698
+Rank: 1 522 501
 
 | #    | Name & Link                                                                                                                             | Difficulty |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -16,6 +16,7 @@ Rank: 1 578 698
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                             | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                             | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                             | Medium     |
+| 263  | [Ugly Number](https://leetcode.com/problems/ugly-number/description/)                                                                   | Easy       |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)                                                     | Medium     |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string/)                                                                           | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                         | Easy       |
